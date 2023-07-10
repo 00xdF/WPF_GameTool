@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_GameTool", "WPF_GameTool.csproj", "{6541C60A-82A6-43E4-B3BF-EF93F46D0AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6541C60A-82A6-43E4-B3BF-EF93F46D0AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6541C60A-82A6-43E4-B3BF-EF93F46D0AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6541C60A-82A6-43E4-B3BF-EF93F46D0AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6541C60A-82A6-43E4-B3BF-EF93F46D0AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F566A910-1413-47FB-B02E-4B089FAB7170}
+	EndGlobalSection
+EndGlobal
